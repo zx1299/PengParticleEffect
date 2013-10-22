@@ -6,7 +6,7 @@ package
 	{
 		public function PengParticleEffect()
 		{
-			
+			trace("PengParticleEffect");		
 		}
 	}
 }
